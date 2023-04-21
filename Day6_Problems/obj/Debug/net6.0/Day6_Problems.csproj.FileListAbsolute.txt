@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\bin\Debug\net6.0\Day6_Problems.exe
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\bin\Debug\net6.0\Day6_Problems.deps.json
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\bin\Debug\net6.0\Day6_Problems.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\bin\Debug\net6.0\Day6_Problems.dll
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\bin\Debug\net6.0\Day6_Problems.pdb
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.dll
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\refint\Day6_Problems.dll
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.pdb
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\Day6_Problems.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Day6_Problems\Day6_Problems\obj\Debug\net6.0\ref\Day6_Problems.dll
